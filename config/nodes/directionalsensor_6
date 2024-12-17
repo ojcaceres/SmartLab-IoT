@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:5
+device_id:6
+device_longitude:-74.06489700078964
+device_latitude:4.602832163692153
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:10.0
+device_script_file_name:Sensoresproximidad.csc
+directional_parameters:0.02 2.0 12

@@ -1,0 +1,14 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:14
+device_longitude:-74.06529128551483
+device_latitude:4.602952473821937
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:5.0
+device_gps_file_name:route0.gps
+device_script_file_name:Estudiante.csc
