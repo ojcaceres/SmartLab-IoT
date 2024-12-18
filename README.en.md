@@ -1,5 +1,5 @@
-[![es](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.md)
-[![en](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.en.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.en.md)
 
 # SmartLab: Harnessing the Internet of Things for Efficient Resource Management
 
