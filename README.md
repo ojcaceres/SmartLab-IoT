@@ -1,3 +1,7 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ojcaceres/SmartLab-IoT/blob/main/README.en.md)
+
+
 # SmartLab: Aprovechando el Internet de las Cosas para una Gestión Eficiente de Recursos
 
 Bienvenido al repositorio del proyecto **SmartLab**, una iniciativa que busca optimizar el uso de recursos dentro de un entorno de laboratorio mediante la integración de sensores IoT, un nodo gateway centralizado y un enfoque inteligente basado en eventos. Este proyecto demuestra cómo la automatización y el análisis de datos pueden conducir a una mayor eficiencia energética, un entorno más confortable y una gestión sostenible del espacio.
