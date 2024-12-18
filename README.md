@@ -72,7 +72,7 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 
 ## Contacto
 
-Para más información, dudas o colaboración, contacta al equipo de desarrollo a través de:
+Para más información, dudas o colaboración, contactarse a través de:
 
 - Correo: oj.caceres@uniandes.edu.co
 - LinkedIn: https://www.linkedin.com/in/oswaldo-jose-caceres-leal/
