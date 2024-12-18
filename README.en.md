@@ -63,7 +63,7 @@ The project was simulated on the **CupCarbon** platform, validating information 
 
 ## Contributions
 
-Contributions are welcome. Please open an **Issue** or a **Pull Request** with your suggestions, fixes, or improvements. Before contributing, review the project’s internal guidelines and ensure your contributions align with SmartLab’s overall objectives.
+Contributions are welcome. Please open an **Issue** or a **Pull Request** with your suggestions, fixes, or improvements. Before contributing, review the project’s internal guidelines and ensure your contributions align with SmartLab’s general objective.
 
 ## License
 
