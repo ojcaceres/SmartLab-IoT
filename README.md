@@ -79,4 +79,3 @@ Para más información, dudas o colaboración, contacta al equipo de desarrollo 
 
 ---
 
-*SmartLab es más que un proyecto, es una visión hacia entornos más inteligentes, eficientes y sostenibles.*
