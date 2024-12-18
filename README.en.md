@@ -71,7 +71,7 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 
 ## Contact
 
-For more information, questions, or collaboration inquiries, contact the development team at:
+For more information, questions, or collaboration inquiries, contact:
 
 - Email: oj.caceres@uniandes.edu.co
 - LinkedIn: [https://www.linkedin.com/in/oswaldo-jose-caceres-leal/](https://www.linkedin.com/in/oswaldo-jose-caceres-leal/)
